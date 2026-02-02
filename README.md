@@ -32,7 +32,7 @@ cd tools
 
 | Workflow | Descrição | Comando |
 |----------|-----------|---------|
-| [publish-to-github](./workflows/publish-to-github/) | Publica projetos no GitHub automaticamente | `./install.sh workflow publish-to-github` |
+| *Em breve* | - | - |
 
 ### Templates
 

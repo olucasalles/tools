@@ -156,7 +156,7 @@ list_components() {
     echo ""
 
     echo -e "${YELLOW}Workflows:${NC}"
-    echo "  - publish-to-github    Publica projetos no GitHub automaticamente"
+    echo "  (em breve)"
     echo ""
 
     echo -e "${YELLOW}Templates:${NC}"
@@ -169,7 +169,6 @@ list_components() {
 
     echo -e "${BLUE}Para instalar:${NC}"
     echo "  ./install.sh task extract-framework"
-    echo "  ./install.sh workflow publish-to-github"
 }
 
 show_help() {
